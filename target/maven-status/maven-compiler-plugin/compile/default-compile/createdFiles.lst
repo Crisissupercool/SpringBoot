@@ -1,0 +1,11 @@
+ch/clip/trips/BusinessTripsBackendApplication.class
+ch/clip/trips/SpringWebConfig.class
+ch/clip/trips/ex/TriptNotFoundException.class
+ch/clip/trips/controller/BusinessTripController.class
+ch/clip/trips/model/Meeting.class
+ch/clip/trips/repo/MeetingRepository.class
+ch/clip/trips/web/HomeController.class
+ch/clip/trips/ex/TripNotFoundAdvice.class
+ch/clip/trips/repo/BusinessTripRepository.class
+ch/clip/trips/controller/MeetingController.class
+ch/clip/trips/model/BusinessTrip.class
